@@ -1,0 +1,5 @@
+C:\Users\kruch\Desktop\PrototypeDemo\PrototypeDemo\bin\Debug\PrototypeDemo.exe
+C:\Users\kruch\Desktop\PrototypeDemo\PrototypeDemo\bin\Debug\PrototypeDemo.pdb
+C:\Users\kruch\Desktop\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.csprojResolveAssemblyReference.cache
+C:\Users\kruch\Desktop\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.exe
+C:\Users\kruch\Desktop\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.pdb
